@@ -27,6 +27,8 @@ _UpgradeReport_Files/
 bin/
 obj/
 obj/Debug/
+FireOnWheelsStage1/obj/Debug/
+FireOnWheelsStage1/obj/
 .sass-cache/
 TestResults/
 !KENDOUIMVC/
