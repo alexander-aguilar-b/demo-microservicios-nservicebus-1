@@ -26,7 +26,7 @@ _UpgradeReport_Files/
 ###############
 bin/
 obj/
-obj/Debug
+obj/Debug/
 .sass-cache/
 TestResults/
 !KENDOUIMVC/
