@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireOnWheelsStage1", "FireOnWheelsStage1\FireOnWheelsStage1.csproj", "{7A0A1D55-7C8C-4584-9DFA-9F58F0959D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispatchService", "DispatchService\DispatchService.csproj", "{0D1E3513-FF3C-47AD-A464-2FB3F800142C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7A0A1D55-7C8C-4584-9DFA-9F58F0959D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A0A1D55-7C8C-4584-9DFA-9F58F0959D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A0A1D55-7C8C-4584-9DFA-9F58F0959D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1E3513-FF3C-47AD-A464-2FB3F800142C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1E3513-FF3C-47AD-A464-2FB3F800142C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1E3513-FF3C-47AD-A464-2FB3F800142C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1E3513-FF3C-47AD-A464-2FB3F800142C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
