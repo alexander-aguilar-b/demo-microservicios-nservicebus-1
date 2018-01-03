@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireOnWheels.REST", "Dispat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireOnWheels.Messages", "FireOnWheels.Messages\FireOnWheels.Messages.csproj", "{1362A2D3-9641-4BC9-A81A-65F4B595822F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireOnWheels.Order", "FireOnWheels.Order\FireOnWheels.Order.csproj", "{A0C7B0C8-2565-4BFB-94DE-5F5B5D9D2624}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1362A2D3-9641-4BC9-A81A-65F4B595822F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1362A2D3-9641-4BC9-A81A-65F4B595822F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1362A2D3-9641-4BC9-A81A-65F4B595822F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C7B0C8-2565-4BFB-94DE-5F5B5D9D2624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C7B0C8-2565-4BFB-94DE-5F5B5D9D2624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C7B0C8-2565-4BFB-94DE-5F5B5D9D2624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C7B0C8-2565-4BFB-94DE-5F5B5D9D2624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
